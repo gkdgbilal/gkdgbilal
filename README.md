@@ -2,7 +2,7 @@
 <br/>
 
 ## Heyyo, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!
-(My social links.)
+### Social Links:
 
 <a href="https://www.linkedin.com/in/bilalgokdag/" target="_blank"><img align="left" alt="Bilal G | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/gkdg.bilal" target="_blank"><img align="left" alt="Bilal G | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
