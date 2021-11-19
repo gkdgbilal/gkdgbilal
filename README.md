@@ -1,6 +1,3 @@
-<br/>
-<br/>
-
 ## Heyyo, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!
 ### Social Links:
 
