@@ -1,4 +1,4 @@
-## Heyyo, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!
+## Hii, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!
 ### Social Links:
 
 <a href="https://www.linkedin.com/in/bilalgokdag/" target="_blank"><img align="left" alt="Bilal G | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
