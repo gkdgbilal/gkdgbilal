@@ -35,7 +35,7 @@
 <a href="https://reactjs.org" target="_blank"> <img align="left" alt="C" width="43px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> </a>
 <a href="https://vuejs.org" target="_blank"> <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/> </a>
 </a>
-<a href="https://github.com/gkdgbilal" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/go_icon_132346.png" /> </a>
+<a href="https://golang.org" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/go_icon_132346.png" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://github.com/gkdgbilal" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> 
 <br />
