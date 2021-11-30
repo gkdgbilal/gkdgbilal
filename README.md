@@ -1,7 +1,14 @@
 <br/>
 <h1 align="center" >Hii, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
+<h3 align="center" >I'm a software engineer and I development web & mobile applications.</h3>
 
-
+<p align="center">
+- 👩🏻‍💻 I’m currently working on a special software company. <br>
+- 🌱 I’m currently learning ReactJS, VueJs, Python/Flask, React Native, NextJS. <br>
+- 😄 Pronouns: Software Engineer<br>
+- 💪🏼 Future Goals: Exploring new technologies and developing software solutions.
+</p>
+<!--<img alt="ViewCount" src="https://views.whatilearened.today/views/github/gkdgbilal/gkdgbilal.svg" />-->
 <h4 align="center" >Social Links:</h4>
 <div>
     <p align="center"><a href="https://www.linkedin.com/in/bilalgokdag/" target="_blank"><img align="center" alt="Bilal G | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />&emsp;
