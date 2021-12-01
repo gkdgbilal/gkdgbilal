@@ -68,7 +68,7 @@
 
 <br/>
 <h2 align="center">:round_pushpin: Waka Times :round_pushpin:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal" alt="gkdgbilal :: Waka Times" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal&theme=nightowl" alt="gkdgbilal :: Waka Times" /></p>
 
 
 
