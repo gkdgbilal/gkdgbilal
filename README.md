@@ -70,8 +70,9 @@
 <h2 align="center">:round_pushpin: Waka Times :round_pushpin:</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal&theme=nightowl" alt="gkdgbilal :: Waka Times" /></p>
 
-
-
+<!--<p align="center"><img src="https://wakatime.com/share/@gkdgbilal/9f65b68f-b319-4e67-9ff8-2adbb09aca66.svg" alt="gkdgbilal :: Waka Times" width="400px"/></p>
+<figure><embed src="https://wakatime.com/share/@gkdgbilal/f233c083-a52c-4e1c-ab54-b712df1bdc9d.svg"></embed></figure>
+-->
 <!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=gkdgbilal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/gkdgbilal)
