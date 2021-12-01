@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center" >Hii, I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
+<h1 align="center" >Hii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
 <h3 align="center" >I'm a software engineer and I development web & mobile applications.</h3>
 
 <p align="center">
@@ -57,18 +57,21 @@
 
 <h4 align="center">👅 Used Languages 👅</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl" alt="gkdgbilal :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Top Langs" /></p>
 
 ---
 
 <h2 align="center">👽 Profile Statistics 👽</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&show_icons=true&theme=nightowl" alt="gkdgbilal :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&show_icons=true&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" /></p>
 
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=gkdgbilal&theme=nightowl&hide_border=true" width = 400>
+</p>
 
 <br/>
 <h2 align="center">:round_pushpin: Waka Times :round_pushpin:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal&theme=nightowl" alt="gkdgbilal :: Waka Times" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal&theme=nightowl&hide_border=true" alt="gkdgbilal :: Waka Times" /></p>
 
 <!--<p align="center"><img src="https://wakatime.com/share/@gkdgbilal/9f65b68f-b319-4e67-9ff8-2adbb09aca66.svg" alt="gkdgbilal :: Waka Times" width="400px"/></p>
 <figure><embed src="https://wakatime.com/share/@gkdgbilal/f233c083-a52c-4e1c-ab54-b712df1bdc9d.svg"></embed></figure>
