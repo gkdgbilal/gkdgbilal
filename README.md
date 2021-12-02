@@ -54,7 +54,14 @@
 <h2 align="center">👀 Number of Visits 👀</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gkdgbilal}/count.svg" alt="gkdgbilal :: Visitor's Count" /></p>
-
+    
+---
+    
+<h2 align="center">:round_pushpin: WakaTime Stats :round_pushpin:</h2>
+<p align = "center">
+<a href="https://wakatime.com/@a87d9cf1-dfce-43d3-b4e2-94a8e4a7e079"><img src="https://wakatime.com/badge/user/a87d9cf1-dfce-43d3-b4e2-94a8e4a7e079.svg?style=for-the-badge" alt="Total time coded since Nov 30 2021" /></a>  
+</p>
+    
 <h4 align="center">👅 Used Languages 👅</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Top Langs" /></p>
@@ -69,9 +76,8 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=gkdgbilal&theme=nightowl&hide_border=true" width = 400>
 </p>
 
-<br/>
-<h2 align="center">:round_pushpin: Waka Times :round_pushpin:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gkdgbilal&theme=nightowl&hide_border=true" alt="gkdgbilal :: Waka Times" /></p>
+
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gkdgbilal&theme=nightowl&hide_border=true" alt="gkdgbilal :: Waka Times" /></p>-->
 
 <!--<p align="center"><img src="https://wakatime.com/share/@gkdgbilal/9f65b68f-b319-4e67-9ff8-2adbb09aca66.svg" alt="gkdgbilal :: Waka Times" width="400px"/></p>
 <figure><embed src="https://wakatime.com/share/@gkdgbilal/f233c083-a52c-4e1c-ab54-b712df1bdc9d.svg"></embed></figure>
