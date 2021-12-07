@@ -10,17 +10,59 @@
 </p>
 <!--<img alt="ViewCount" src="https://views.whatilearened.today/views/github/gkdgbilal/gkdgbilal.svg" />-->
 <h4 align="center" >Social Links:</h4>
+
+<p align="center">
+    <a href="https://twitter.com/gkdg_bilal">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.instagram.com/gkdg.bilal/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/bilalgokdag//">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+ </p>
+
+<!--
 <div>
     <p align="center"><a href="https://www.linkedin.com/in/bilalgokdag/" target="_blank"><img align="center" alt="Bilal G | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />&emsp;
 <a href="https://instagram.com/gkdg.bilal" target="_blank"><img align="center" alt="Bilal G | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />&emsp;
     <a href="https://twitter.com/gkdg_bilal" target="_blank"><img align="center" alt="Bilal G | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
         </p>
     </div>
-
+-->
 <br/>
 
 
 <h4 align="center" >Languages and Tools:</h4>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Next" src="https://img.shields.io/badge/Next-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
+<!--
 <div>
     <p align="center"><a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&emsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&emsp;
@@ -33,11 +75,23 @@
 <a href="https://github.com/gkdgbilal" target="_blank"> <img align="center" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> 
         </p>
     </div>
+-->
      
         
         
 <h4 align="center" >Softwares:</h4>
 
+
+<p align="center">
+  <img alt="VSCode" src="https://img.shields.io/badge/VScode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-4FDE7C?logo=pycharm&logoColor=white&style=for-the-badge" />
+  <img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-3495C8?logo=webstorm&logoColor=white&style=for-the-badge" />
+  <img alt="IntelliJ" src="https://img.shields.io/badge/Intellijidea-AD4FB5?logo=intellijidea&logoColor=white&style=for-the-badge" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+<!--
 <div>
      <p align="center">
     <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&emsp;
@@ -47,7 +101,7 @@
 <a href="https://www.postman.com" target="_blank"> <img align="center" alt="Photoshop" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/> </a>
    </p>
     </div>
-
+-->
 
 
     
