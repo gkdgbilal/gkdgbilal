@@ -54,12 +54,15 @@
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0288D1?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </p>
 
 <!--
