@@ -1,11 +1,11 @@
 <br/>
 <h1 align="center" >Hii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
-<h3 align="center" >I'm a software engineer and I development web & mobile applications.</h3>
+<h3 align="center" >I'm a computer engineer and I development web & mobile applications.</h3>
 
 <p align="center">
 - 👩🏻‍💻 I’m currently working on a special software company. <br>
-- 🌱 I’m currently learning ReactJS, VueJs, Python/Flask, React Native, NextJS. <br>
-- 😄 Pronouns: Software Engineer<br>
+- 🌱 I’m currently learning and using ReactJS, VueJs, Python/Flask, React Native, NextJS, Docker, Kubernetes. <br>
+- 😄 Pronouns: Computer Engineer<br>
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions.
 </p>
 <!--<img alt="ViewCount" src="https://views.whatilearened.today/views/github/gkdgbilal/gkdgbilal.svg" />-->
@@ -92,6 +92,7 @@
   <img alt="IntelliJ" src="https://img.shields.io/badge/Intellijidea-AD4FB5?logo=intellijidea&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/KUBERNETES-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
 </p>
 
 <!--
