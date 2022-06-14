@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center" >Hii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
+<h1 align="center" >Hii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I'm <a href="https://github.com/gkdgbilal" target="_blank">Bilal</a>!</h1>
 <h3 align="center" >I'm a computer engineer and I development web & mobile applications.</h3>
 
 <p align="center">
