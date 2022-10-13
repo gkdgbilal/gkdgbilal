@@ -62,7 +62,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0288D1?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
 </p>
 
 <!--
