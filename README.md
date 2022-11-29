@@ -113,22 +113,28 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gkdgbilal}/count.svg" alt="gkdgbilal :: Visitor's Count" /></p>
     
+<!--
 ---
+-->
     
 <h2 align="center">:round_pushpin: WakaTime Stats :round_pushpin:</h2>
 <p align = "center">
 <a href="https://wakatime.com/@a87d9cf1-dfce-43d3-b4e2-94a8e4a7e079"><img src="https://wakatime.com/badge/user/a87d9cf1-dfce-43d3-b4e2-94a8e4a7e079.svg?style=for-the-badge" alt="Total time coded since Nov 30 2021" /></a>  
 </p>
-    
+<!--
 <h4 align="center">👅 Used Languages 👅</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Top Langs" /></p>
+-->
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Top Langs" /></p>-->
 
+<!--
 ---
+-->
 
 <h2 align="center">👽 Profile Statistics 👽</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&show_icons=true&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" /></p>
 
 <h4 align="center">Personal Account Stats - Business Account Stats</h3>
 
