@@ -130,10 +130,12 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&show_icons=true&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" /></p>
 
+<h4 align="center">Personal Account Stats - Business Account Stats</h3>
+
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=gkdgbilal&theme=nightowl&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=bilalgokdag-ysm&theme=nightowl&hide_border=true" width = 400>
 </p>
-
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@gkdgbilal&theme=nightowl&hide_border=true" alt="gkdgbilal :: Waka Times" /></p>-->
 
