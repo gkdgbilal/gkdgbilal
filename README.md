@@ -146,7 +146,7 @@
  
 <p align="center">
   <a href="https://github.com/gkdgbilal?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gkdgbilal&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400px" height="200px" alt="@gkdgbilal's github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gkdgbilal&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=400 height=200 alt="@gkdgbilal's github-readme-stats">
   </a>
  <!--<img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" />-->
 </p>
