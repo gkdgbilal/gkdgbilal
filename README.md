@@ -4,7 +4,7 @@
 
 <p align="center">
 - 👩🏻‍💻 I’m currently working on a special software company. <br>
-- 🌱 I’m currently learning and using ReactJS, VueJs, Python/Flask, React Native, NextJS, Docker, Kubernetes. <br>
+- 🌱 I’m currently learning and using ReactJS, NextJS, TypeScript, TailwindCss, Docker, Kubernetes. <br>
 - 😄 Pronouns: Computer Engineer<br>
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions.
 </p>
@@ -136,11 +136,20 @@
 
 <!--
 ---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkdgbilal&theme=shadow_blue&layout=compact"width="30%"/> 
+</p> 
 -->
 
-<h2 align="center">👽 Profile Statistics 👽</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" /></p>
+<h2 align="center">👽 Profile Statistics 👽</h2>
+ 
+<p align="center">
+  <a href="https://github.com/gkdgbilal?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=gkdgbilal&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@gkdgbilal's github-readme-stats">
+  </a>
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=gkdgbilal&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="gkdgbilal :: Profile Stats" />-->
+</p>
 
 <h4 align="center">Personal Account Stats - Business Account Stats</h3>
 
